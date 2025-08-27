@@ -1,0 +1,17 @@
+name: lightsail
+dependencies:
+  - autograd
+  - pytorch
+  - numpy
+  - matplotlib
+  - jupyter
+  - scipy
+  - dill
+  - pytest
+  - nlopt
+  - multiprocess
+  - python
+  - pip
+  - pip:
+    - grcwa
+    - torcwa
