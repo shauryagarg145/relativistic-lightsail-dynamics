@@ -95,7 +95,7 @@ lines_to_file = ["\n\n----------------------------------------------------------
 ## Writing to file ##
 current_dir = pathlib.Path(__file__).resolve(strict=True).parent
 txt_fname = f'{runID}_FOM_optimisation_maxtime{maxtime}.txt'
-txt_dir = current_dir / "Data" / txt_fname
+txt_dir = current_dir / "Data" / "Shaurya" / txt_fname
 with open(txt_dir, "a") as result_file:
     result_file.writelines(lines_to_file)
 
