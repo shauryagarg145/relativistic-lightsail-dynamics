@@ -14,6 +14,8 @@ How to run:
     maximum runtime (in minutes) per core in the parameters.py module
 """
 
+student = "Shaurya"  # Change this to your name or preferred folder name
+
 # IMPORTS ################################################################################################################################################
 import os
 ## Limit number of numpy threads (MUST GO BEFORE NUMPY IMPORT) ##
@@ -95,7 +97,13 @@ lines_to_file = ["\n\n----------------------------------------------------------
 ## Writing to file ##
 current_dir = pathlib.Path(__file__).resolve(strict=True).parent
 txt_fname = f'{runID}_FOM_optimisation_maxtime{maxtime}.txt'
-txt_dir = current_dir / "Data" / "Shaurya" / txt_fname
+txt_dir = current_dir / "Data" / student / txt_fname
+
+#added this check to make directory if it doesn't exist
+#make sure to change "Shaurya" to your own name or preferred folder name
+if not os.path.exists(current_dir / "Data" / student):
+    os.makedirs(current_dir / "Data" / student)
+
 with open(txt_dir, "a") as result_file:
     result_file.writelines(lines_to_file)
 
@@ -142,6 +150,6 @@ if __name__ == '__main__':
                     'Execution time': time_at_execution, 'Completion time': time_at_completion}
             
             pkl_fname = f'{runID}_FOM_optimisation_maxtime{maxtime}_process{opt_index}.pkl'
-            pkl_dir = current_dir / "Data" / pkl_fname
+            pkl_dir = current_dir / "Data" / student /pkl_fname
             with open(pkl_dir, 'wb') as data_file:
                 pickle.dump(data, data_file)

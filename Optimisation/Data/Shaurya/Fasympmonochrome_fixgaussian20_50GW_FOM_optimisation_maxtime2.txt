@@ -1,0 +1,13 @@
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-08-28 15:09:53.018292
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(np.float64(1.009), np.float64(1.016)), (0.012270000000000001, 1.8405), (0.012270000000000001, 1.227), (0.012270000000000001, 1.227), (0.03681, 0.6135), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.012270000000000001, 1.8405), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 2, 'maxstop per core': {'maxtime': 2}}
+------------------------------------------------------------------------------------------------------------------------------------
