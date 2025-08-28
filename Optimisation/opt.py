@@ -155,7 +155,7 @@ def global_optimise(objective_fom, opt_hyperparams,
         in parameters.py.
         """
         grating.params = opt_params
-        return objective_fom(grating, final_speed, goal, return_grad)
+        return objective_fom(grating, final_speed=final_speed, goal=goal, return_grad=return_grad)
 
     def fun_nlopt(params,gradn):
         """
