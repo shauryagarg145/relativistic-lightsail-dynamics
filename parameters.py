@@ -31,7 +31,7 @@ def gamma_ND(v):
     else:
         vnorm = np.linalg.norm(v)
     
-    gamma = 1/np.sqrt(1-np.power(vnorm,2))
+    gamma = 1/np.sqrt(1-np.power(vnorm,2)) 
     return gamma
 
 def D1_ND(v):
@@ -69,7 +69,7 @@ def Parameters():
     return I0, L, m, c
 
 
-wavelength = 1.  # Laser wavelength
+wavelength = 0.9 #1. # Laser wavelength
 final_speed = 20.  # percentage of c
 fixed_pitch = 1.227 # If the pitch is fixed, other parameters like box widths are naturally constrained by this value
 param_names = ["grating_pitch", "grating_depth", 
@@ -104,8 +104,8 @@ def Hyperparameters():
 
 
 choose_monofom = "asymp"
-# choose_multifom = "uniform"
-choose_multifom = "monochrome"
+choose_multifom = "uniform"
+# choose_multifom = "monochrome"
 def FOMSettings():
     # See fom.py for FOM options and kwargs  
     fom_kwargs = {"use_perturbed": False}
@@ -114,8 +114,8 @@ def FOMSettings():
 
 def OptimisationSettings():
     # Global optimisation parameters
-    num_cores = 2  # number of cores to run parallel optimisation
-    maxtime = 2  # Stop after maxtime minutes
+    num_cores = 6  # number of cores to run parallel optimisation
+    maxtime = 10  # Stop after maxtime minutes
     maxstop = {'maxtime': maxtime}  # global 1000
     if choose_multifom != "monochrome":
         runID = f"F{choose_monofom}{int(final_speed)}_fixgaussian20_50GW"  # ID for saving results to distinguish different runs
@@ -143,15 +143,15 @@ def Bounds():
     # The maximum pitch must be set because any larger pitches would result in the -2 order appearing for small rotation angles. 
     # The +1 and -2 orders are selected because they appear/disappear before the -1/+2 orders (at positive rotation angle)
     # wavelength_max = wavelength/D1_ND(final_speed/100)
-    wavelength_max = 1.
+    wavelength_max = wavelength #1.2
     max_angle_cutoff1 = 0.1*np.pi/180  # maximum angle before order +1 is evanescent
     min_angle_cutoff2 = 15*np.pi/180  # minimum angle before order -2 is non-evanescent
     # pitch_min = np.round(1*wavelength_max/(1 - np.sin(max_angle_cutoff1)), 3)  
     # pitch_max = np.round(2*wavelength_max/(1 + np.sin(min_angle_cutoff2)), 3)
 
     # changed these bounds from 0.01 and 0.1 to 0.5 0.9 to make it work
-    pitch_min = np.round(1*wavelength_max/(1 - np.sin(0.5*np.pi/180)), 3)  
-    pitch_max = np.round(1*wavelength_max/(1 - np.sin(0.9*np.pi/180)), 3)  
+    pitch_min = 1.3#np.round(1*wavelength_max/(1 - np.sin(0.5*np.pi/180)), 3)  
+    pitch_max = 1.6 #np.round(1*wavelength_max/(1 - np.sin(0.9*np.pi/180)), 3)  
 
     h1_min = 0.01*fixed_pitch  # Offset from zero to avoid zero Jacobian determinant 
     h1_max = 1.5*fixed_pitch
