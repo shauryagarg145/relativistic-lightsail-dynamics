@@ -106,8 +106,8 @@ def Hyperparameters():
 
 
 choose_monofom = "asymp"
-#choose_multifom = "uniform"
-choose_multifom = "monochrome"
+choose_multifom = "uniform"
+#choose_multifom = "monochrome"
 def FOMSettings():
     # See fom.py for FOM options and kwargs  
     fom_kwargs = {"use_perturbed": False}
