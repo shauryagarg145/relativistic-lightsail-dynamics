@@ -69,7 +69,7 @@ def Parameters():
     return I0, L, m, c
 
 
-wavelength = 0.9 #1. # Laser wavelength
+wavelength = 1.001 # Laser wavelength
 final_speed = 20.  # percentage of c
 fixed_pitch = 1.227 # If the pitch is fixed, other parameters like box widths are naturally constrained by this value
 param_names = ["grating_pitch", "grating_depth", 
@@ -151,7 +151,7 @@ def Bounds():
 
     # changed these bounds from 0.01 and 0.1 to 0.5 0.9 to make it work
     pitch_min = 1.3#np.round(1*wavelength_max/(1 - np.sin(0.5*np.pi/180)), 3)  
-    pitch_max = 1.6 #np.round(1*wavelength_max/(1 - np.sin(0.9*np.pi/180)), 3)  
+    pitch_max = 1.7 #np.round(1*wavelength_max/(1 - np.sin(0.9*np.pi/180)), 3)  
 
     h1_min = 0.01*fixed_pitch  # Offset from zero to avoid zero Jacobian determinant 
     h1_max = 1.5*fixed_pitch
