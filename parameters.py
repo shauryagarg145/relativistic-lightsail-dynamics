@@ -69,9 +69,9 @@ def Parameters():
     return I0, L, m, c
 
 
-wavelength = 1.001 # Laser wavelength
+wavelength = 1. + 2.5e-5 #001 # Laser wavelength
 final_speed = 20.  # percentage of c
-fixed_pitch = 1.227 # If the pitch is fixed, other parameters like box widths are naturally constrained by this value
+fixed_pitch = 1.58899 #1.227 # If the pitch is fixed, other parameters like box widths are naturally constrained by this value
 param_names = ["grating_pitch", "grating_depth", 
                 "box1_width", "box2_width", "box_centre_dist", 
                 "box1_eps", "box2_eps", 
@@ -105,7 +105,7 @@ def Hyperparameters():
 
 choose_monofom = "asymp"
 choose_multifom = "uniform"
-# choose_multifom = "monochrome"
+#choose_multifom = "monochrome"
 def FOMSettings():
     # See fom.py for FOM options and kwargs  
     fom_kwargs = {"use_perturbed": False}
@@ -115,7 +115,7 @@ def FOMSettings():
 def OptimisationSettings():
     # Global optimisation parameters
     num_cores = 6  # number of cores to run parallel optimisation
-    maxtime = 10  # Stop after maxtime minutes
+    maxtime = 30  # Stop after maxtime minutes
     maxstop = {'maxtime': maxtime}  # global 1000
     if choose_multifom != "monochrome":
         runID = f"F{choose_monofom}{int(final_speed)}_fixgaussian20_50GW"  # ID for saving results to distinguish different runs
@@ -150,28 +150,28 @@ def Bounds():
     # pitch_max = np.round(2*wavelength_max/(1 + np.sin(min_angle_cutoff2)), 3)
 
     # changed these bounds from 0.01 and 0.1 to 0.5 0.9 to make it work
-    pitch_min = 1.3#np.round(1*wavelength_max/(1 - np.sin(0.5*np.pi/180)), 3)  
-    pitch_max = 1.7 #np.round(1*wavelength_max/(1 - np.sin(0.9*np.pi/180)), 3)  
+    pitch_min = 1/0.62935  #np.round(1*wavelength_max/(1 - np.sin(0.5*np.pi/180)), 3)  
+    pitch_max = 1/0.6293  #np.round(1*wavelength_max/(1 - np.sin(0.9*np.pi/180)), 3)  
 
     h1_min = 0.01*fixed_pitch  # Offset from zero to avoid zero Jacobian determinant 
     h1_max = 1.5*fixed_pitch
 
-    box_width_min = 0.01*fixed_pitch  # Offset from zero to avoid zero Jacobian determinant
-    box_width_max = 1.*fixed_pitch  # single box width must be smaller than pitch
+    box_width_min = 1.12 #0.01*fixed_pitch  # Offset from zero to avoid zero Jacobian determinant
+    box_width_max = 1.25 #1.*fixed_pitch  # single box width must be smaller than pitch
 
-    box_centre_dist_min = 0.03*fixed_pitch  # Offset from zero to avoid zero Jacobian determinant and symmetric unit cell
-    box_centre_dist_max = 0.5*fixed_pitch  # redundant space if > 0.5*pitch
+    box_centre_dist_min = 0.47 #0.03*fixed_pitch  # Offset from zero to avoid zero Jacobian determinant and symmetric unit cell
+    box_centre_dist_max = 0.5 #0.5*fixed_pitch  # redundant space if > 0.5*pitch
 
-    box_eps_min = 1.1**2  # Minimum allowed grating permittivity set above vacuum to avoid zero Jacobian determinant 
-    box_eps_max = 3.5**2  # Maximum allowed grating permittivity set to silicon
+    box_eps_min = 8 #1.1**2  # Minimum allowed grating permittivity set above vacuum to avoid zero Jacobian determinant 
+    box_eps_max = 13 #3.5**2  # Maximum allowed grating permittivity set to silicon
 
     gaussian_width_min = 0.1*L 
     gaussian_width_max = 10*L
 
-    substrate_depth_min = h1_min  # Offset from zero to avoid zero Jacobian determinant 
-    substrate_depth_max = 1.5*fixed_pitch 
-    substrate_eps_min = box_eps_min 
-    substrate_eps_max = box_eps_max
+    substrate_depth_min = 1.8 #h1_min  # Offset from zero to avoid zero Jacobian determinant 
+    substrate_depth_max = 1.9 #1.5*fixed_pitch 
+    substrate_eps_min = 7.6 #box_eps_min 
+    substrate_eps_max = 7.8 #box_eps_max
 
     # # All params
     # param_bounds = [(pitch_min, pitch_max), (h1_min, h1_max), 

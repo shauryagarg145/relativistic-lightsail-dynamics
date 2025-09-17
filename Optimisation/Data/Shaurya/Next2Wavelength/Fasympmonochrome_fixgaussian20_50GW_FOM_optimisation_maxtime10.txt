@@ -1,0 +1,780 @@
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:28:04.335449
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.4444604940054888), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:28:08.960857
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.4444604940054888), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:28:08.964873
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.4444604940054888), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:28:08.995600
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.4444604940054888), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:28:08.999615
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.4444604940054888), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:28:09.028867
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.4444604940054888), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:28:09.032885
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.4444604940054888), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:29:14.124722
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5888147442008262, 1.4445648248465148), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:29:18.750417
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5888147442008262, 1.4445648248465148), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:29:18.762528
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5888147442008262, 1.4445648248465148), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:29:18.807080
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5888147442008262, 1.4445648248465148), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:29:18.807080
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5888147442008262, 1.4445648248465148), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:29:18.835621
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5888147442008262, 1.4445648248465148), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:29:18.844297
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5888147442008262, 1.4445648248465148), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:29:50.887774
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5886885376122013, 1.444669170759896), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:29:55.469411
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5886885376122013, 1.444669170759896), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:29:55.471416
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5886885376122013, 1.444669170759896), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:29:55.489580
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5886885376122013, 1.444669170759896), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:29:55.491585
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5886885376122013, 1.444669170759896), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:29:55.491585
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5886885376122013, 1.444669170759896), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:29:55.491585
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5886885376122013, 1.444669170759896), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:30:25.542359
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.3, 1.7), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:30:30.122040
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.3, 1.7), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:30:30.152144
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.3, 1.7), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:30:30.166700
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.3, 1.7), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:30:30.186130
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.3, 1.7), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:30:30.187635
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.3, 1.7), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:30:30.191693
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.3, 1.7), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:35:02.328331
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5885623510722797, 1.4447735317488983), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:35:10.843373
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5885623510722797, 1.4447735317488983), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:35:10.872786
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5885623510722797, 1.4447735317488983), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:35:10.875765
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5885623510722797, 1.4447735317488983), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:35:10.883875
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5885623510722797, 1.4447735317488983), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:35:10.930427
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5885623510722797, 1.4447735317488983), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:36:47.339813
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5888147442008262, 1.589319771137953), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:36:51.819334
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5888147442008262, 1.589319771137953), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:36:51.833380
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5888147442008262, 1.589319771137953), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:36:51.849427
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5888147442008262, 1.589319771137953), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:36:51.872994
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5888147442008262, 1.589319771137953), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:36:51.877345
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5888147442008262, 1.589319771137953), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 19:36:51.877345
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5888147442008262, 1.589319771137953), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 20:04:58.961808
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.589067217543302), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 20:05:03.482550
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.589067217543302), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 20:05:03.535787
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.589067217543302), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 20:05:03.572172
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.589067217543302), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 20:05:03.576188
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.589067217543302), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 20:05:03.592785
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.589067217543302), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 20:05:03.592785
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.589067217543302), (0.0158899, 2.383485), (0.0158899, 1.58899), (0.0158899, 1.58899), (0.047669699999999995, 0.794495), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (0.0158899, 2.383485), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 20:29:26.958207
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.589067217543302), (0.0158899, 2.383485), (1.1, 1.3), (1.1, 1.3), (0.4, 0.5), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (1.8, 1.9), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 20:29:31.552951
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.589067217543302), (0.0158899, 2.383485), (1.1, 1.3), (1.1, 1.3), (0.4, 0.5), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (1.8, 1.9), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 20:29:31.557068
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.589067217543302), (0.0158899, 2.383485), (1.1, 1.3), (1.1, 1.3), (0.4, 0.5), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (1.8, 1.9), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 20:29:31.583491
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.589067217543302), (0.0158899, 2.383485), (1.1, 1.3), (1.1, 1.3), (0.4, 0.5), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (1.8, 1.9), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 20:29:31.609997
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.589067217543302), (0.0158899, 2.383485), (1.1, 1.3), (1.1, 1.3), (0.4, 0.5), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (1.8, 1.9), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 20:29:31.614198
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.589067217543302), (0.0158899, 2.383485), (1.1, 1.3), (1.1, 1.3), (0.4, 0.5), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (1.8, 1.9), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 20:29:31.647038
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.589067217543302), (0.0158899, 2.383485), (1.1, 1.3), (1.1, 1.3), (0.4, 0.5), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (1.8, 1.9), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 20:29:44.675507
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.589067217543302), (0.0158899, 2.383485), (1.1, 1.3), (1.1, 1.3), (0.4, 0.5), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (1.8, 1.9), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 20:29:44.938545
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.589067217543302), (0.0158899, 2.383485), (1.1, 1.3), (1.1, 1.3), (0.4, 0.5), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (1.8, 1.9), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 20:29:45.318021
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.589067217543302), (0.0158899, 2.383485), (1.1, 1.3), (1.1, 1.3), (0.4, 0.5), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (1.8, 1.9), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 20:29:45.646683
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.589067217543302), (0.0158899, 2.383485), (1.1, 1.3), (1.1, 1.3), (0.4, 0.5), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (1.8, 1.9), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+Date & time      | 2025-09-17 20:29:46.017360
+
+Hyperparameters  | {'multifom': 'monochrome', 'monofom': 'asymp', 'FOM kwargs': {'use_perturbed': False}, 'wavelength': 1.0, 'angle': 0.0, 'Nx': 100, 'nG': 12, 'Qabs': 10000000.0, 'RCWA engine': 'TORCWA', 'TORCWA edge sharpness': 45, 'Fixed parameters': ['gaussian_width']}
+FOM parameters   | {'final_speed': 20.0, 'goal': 0.1}
+Non-h1 bounds    | {'param_bounds': [(1.5889409708429332, 1.589067217543302), (0.0158899, 2.383485), (1.1, 1.3), (1.1, 1.3), (0.4, 0.5), (1.2100000000000002, 12.25), (1.2100000000000002, 12.25), (1.8, 1.9), (1.2100000000000002, 12.25)]}
+
+Sampling options | {'Sampling method': 'sobol', 'n_sample': '2E+4', 'seed': 20250714}
+LO options       | {'xtol_rel': '1.0E-04', 'ftol_rel': '1.0E-08'}
+GO options       | {'number of cores': 6, 'maxstop per core': {'maxtime': 10}}
+------------------------------------------------------------------------------------------------------------------------------------
