@@ -165,16 +165,16 @@ def Bounds():
     box_centre_dist_min = 0.4843187147417837 * scale  #0.03*fixed_pitch  # Offset from zero to avoid zero Jacobian determinant and symmetric unit cell
     box_centre_dist_max = 0.4843187147417837 * scale #0.5*fixed_pitch  # redundant space if > 0.5*pitch
 
-    box_eps_min = 8.43981679664437 * scale #1.1**2  # Minimum allowed grating permittivity set above vacuum to avoid zero Jacobian determinant 
-    box_eps_max = 12.249968465054828 * scale #3.5**2  # Maximum allowed grating permittivity set to silicon
+    box_eps_min = 8.43981679664437 #1.1**2  # Minimum allowed grating permittivity set above vacuum to avoid zero Jacobian determinant 
+    box_eps_max = 12.249968465054828 #3.5**2  # Maximum allowed grating permittivity set to silicon
 
     gaussian_width_min = 0.1*L 
     gaussian_width_max = 10*L
 
     substrate_depth_min = 1.8404998380763957 * scale #h1_min  # Offset from zero to avoid zero Jacobian determinant 
     substrate_depth_max = 1.8404998380763957 * scale #1.5*fixed_pitch 
-    substrate_eps_min = 7.724841176163067 *scale #box_eps_min 
-    substrate_eps_max = 7.724841176163067 *scale #box_eps_max
+    substrate_eps_min = 7.724841176163067 #box_eps_min 
+    substrate_eps_max = 7.724841176163067 #box_eps_max
 
     # # All params
     # param_bounds = [(pitch_min, pitch_max), (h1_min, h1_max), 
