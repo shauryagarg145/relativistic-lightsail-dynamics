@@ -432,8 +432,8 @@ def multifom_monochrome(grating, monofom: callable=monofom, return_grad: bool=Tr
     monofom     :   Monofom function to use for calculating F_lam. Defaults to the default monofom function.
     return_grad :   Return [FOM, FOM gradient] instead of just FOM
     """
-    if grating.wavelength != 1.:
-        raise ValueError("Multifom monochrome only valid for gratings with wavelength = 1.0.")
+    #if grating.wavelength != 1.:
+        #raise ValueError("Multifom monochrome only valid for gratings with wavelength = 1.0.")
     FOM = float(grating.to_numpy(_F_lam(grating, monofom)))
     if return_grad:
         F_lam_grad = grating.npa.grad(F_lam, argnum=1)
