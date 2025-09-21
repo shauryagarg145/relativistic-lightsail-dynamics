@@ -104,7 +104,7 @@ def Hyperparameters():
 
 
 choose_monofom = "asymp"
-# choose_multifom = "uniform"
+#choose_multifom = "uniform"
 choose_multifom = "monochrome"
 def FOMSettings():
     # See fom.py for FOM options and kwargs  
@@ -149,9 +149,8 @@ def Bounds():
     # pitch_min = np.round(1*wavelength_max/(1 - np.sin(max_angle_cutoff1)), 3)  
     # pitch_max = np.round(2*wavelength_max/(1 + np.sin(min_angle_cutoff2)), 3)
 
-    # changed these bounds from 0.01 and 0.1 to 0.5 0.9 to make it work
-    pitch_min = np.round(1*wavelength_max/(1 - np.sin(0.5*np.pi/180)), 3)  
-    pitch_max = np.round(1*wavelength_max/(1 - np.sin(0.9*np.pi/180)), 3)  
+    pitch_min = np.round(1*wavelength_max/(1 - np.sin(0.01*np.pi/180)), 3)  
+    pitch_max = np.round(1*wavelength_max/(1 - np.sin(0.1*np.pi/180)), 3)  
 
     h1_min = 0.01*fixed_pitch  # Offset from zero to avoid zero Jacobian determinant 
     h1_max = 1.5*fixed_pitch
