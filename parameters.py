@@ -70,8 +70,22 @@ def Parameters():
 
 
 wavelength = 1.  # Laser wavelength
-final_speed = 20.  # percentage of c
-fixed_pitch = 1.227 # If the pitch is fixed, other parameters like box widths are naturally constrained by this value
+
+from scipy.optimize import minimize
+
+l_min = 1
+l_max = 1.05 + 2.5e-5
+doppler = l_min / l_max
+
+def test(v):
+    v = v/100
+    return np.abs(doppler - D1_ND(v))
+
+sol = minimize(test, 5)
+final_speed = sol.x[0]
+
+#final_speed = 20.  # percentage of c
+fixed_pitch = 1.588999104221404 # If the pitch is fixed, other parameters like box widths are naturally constrained by this value
 param_names = ["grating_pitch", "grating_depth", 
                 "box1_width", "box2_width", "box_centre_dist", 
                 "box1_eps", "box2_eps", 
@@ -104,8 +118,8 @@ def Hyperparameters():
 
 
 choose_monofom = "asymp"
-#choose_multifom = "uniform"
-choose_multifom = "monochrome"
+choose_multifom = "uniform"
+#choose_multifom = "monochrome"
 def FOMSettings():
     # See fom.py for FOM options and kwargs  
     fom_kwargs = {"use_perturbed": False}
@@ -114,8 +128,8 @@ def FOMSettings():
 
 def OptimisationSettings():
     # Global optimisation parameters
-    num_cores = 2  # number of cores to run parallel optimisation
-    maxtime = 2  # Stop after maxtime minutes
+    num_cores = 200  # number of cores to run parallel optimisation
+    maxtime = 720  # Stop after maxtime minutes
     maxstop = {'maxtime': maxtime}  # global 1000
     if choose_multifom != "monochrome":
         runID = f"F{choose_monofom}{int(final_speed)}_fixgaussian20_50GW"  # ID for saving results to distinguish different runs
@@ -143,14 +157,14 @@ def Bounds():
     # The maximum pitch must be set because any larger pitches would result in the -2 order appearing for small rotation angles. 
     # The +1 and -2 orders are selected because they appear/disappear before the -1/+2 orders (at positive rotation angle)
     # wavelength_max = wavelength/D1_ND(final_speed/100)
-    wavelength_max = 1.
+    wavelength_max = l_max
     max_angle_cutoff1 = 0.1*np.pi/180  # maximum angle before order +1 is evanescent
     min_angle_cutoff2 = 15*np.pi/180  # minimum angle before order -2 is non-evanescent
     # pitch_min = np.round(1*wavelength_max/(1 - np.sin(max_angle_cutoff1)), 3)  
     # pitch_max = np.round(2*wavelength_max/(1 + np.sin(min_angle_cutoff2)), 3)
 
-    pitch_min = np.round(1*wavelength_max/(1 - np.sin(0.01*np.pi/180)), 3)  
-    pitch_max = np.round(1*wavelength_max/(1 - np.sin(0.1*np.pi/180)), 3)  
+    pitch_min = 1.4 # np.round(1*wavelength_max/(1 - np.sin(0.01*np.pi/180)), 3)  
+    pitch_max = 1.7 # np.round(1*wavelength_max/(1 - np.sin(0.1*np.pi/180)), 3)  
 
     h1_min = 0.01*fixed_pitch  # Offset from zero to avoid zero Jacobian determinant 
     h1_max = 1.5*fixed_pitch

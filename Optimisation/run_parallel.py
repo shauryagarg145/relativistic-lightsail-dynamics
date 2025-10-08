@@ -14,7 +14,7 @@ How to run:
     maximum runtime (in minutes) per core in the parameters.py module
 """
 
-student = "Shaurya/Scaled"  # Change this to your name or preferred folder name
+student = "Shaurya/Grating_3"  # Change this to your name or preferred folder name
 
 # IMPORTS ################################################################################################################################################
 import os
