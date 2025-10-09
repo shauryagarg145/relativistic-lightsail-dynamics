@@ -74,7 +74,7 @@ wavelength = 1.  # Laser wavelength
 from scipy.optimize import minimize
 
 l_min = 1
-l_max = 1.05 + 2.5e-5
+l_max = 1.05 #+ 2.5e-5
 doppler = l_min / l_max
 
 def test(v):
@@ -129,7 +129,7 @@ def FOMSettings():
 def OptimisationSettings():
     # Global optimisation parameters
     num_cores = 200  # number of cores to run parallel optimisation
-    maxtime = 720  # Stop after maxtime minutes
+    maxtime = 1440  # Stop after maxtime minutes
     maxstop = {'maxtime': maxtime}  # global 1000
     if choose_multifom != "monochrome":
         runID = f"F{choose_monofom}{int(final_speed)}_fixgaussian20_50GW"  # ID for saving results to distinguish different runs
@@ -163,8 +163,8 @@ def Bounds():
     # pitch_min = np.round(1*wavelength_max/(1 - np.sin(max_angle_cutoff1)), 3)  
     # pitch_max = np.round(2*wavelength_max/(1 + np.sin(min_angle_cutoff2)), 3)
 
-    pitch_min = 1.4 # np.round(1*wavelength_max/(1 - np.sin(0.01*np.pi/180)), 3)  
-    pitch_max = 1.7 # np.round(1*wavelength_max/(1 - np.sin(0.1*np.pi/180)), 3)  
+    pitch_min = 1.3 # np.round(1*wavelength_max/(1 - np.sin(0.01*np.pi/180)), 3)  
+    pitch_max = 1.8 # np.round(1*wavelength_max/(1 - np.sin(0.1*np.pi/180)), 3)  
 
     h1_min = 0.01*fixed_pitch  # Offset from zero to avoid zero Jacobian determinant 
     h1_max = 1.5*fixed_pitch

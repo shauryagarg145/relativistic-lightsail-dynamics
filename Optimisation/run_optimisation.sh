@@ -4,7 +4,7 @@
 #PBS -q normalsr
 #PBS -l ncpus=2
 #PBS -l mem=4GB
-#PBS -l walltime=00:05:00
+#PBS -l walltime=0:02:00
 
 module load use.own
 module load python3/3.12.1
@@ -18,4 +18,4 @@ module load torch/2.7.0
 module load torcwa/0.1.4.2
 module load multiprocess/0.70.18
 
-python3 ~/RotationTwobox/run_parallel.py
+python3 run_parallel.py
