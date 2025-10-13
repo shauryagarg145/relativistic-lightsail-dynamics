@@ -2,9 +2,9 @@
 
 #PBS -P dg76
 #PBS -q normalsr
-#PBS -l ncpus=2
-#PBS -l mem=4GB
-#PBS -l walltime=0:05:10
+#PBS -l ncpus=200
+#PBS -l mem=200GB
+#PBS -l walltime=24:30:00
 
 module purge
 module load use.own
