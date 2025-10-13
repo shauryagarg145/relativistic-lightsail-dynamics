@@ -1,0 +1,22 @@
+Multi-wavelength FOM: uniform
+Mono-wavelength FOM: asymp
+ FOM kwargs: {'use_perturbed': False}
+
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.01588999104221404), np.float64(1.19969432368716))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.19969432368716), np.float64(2.383498656332106))
+Begun!
+
+======================================================================================
+                  Resource Usage on 2025-10-13 20:48:15:
+   Job Id:             152262226.gadi-pbs
+   Project:            dg76
+   Exit Status:        0
+   Service Units:      0.16
+   NCPUs Requested:    2                      NCPUs Used: 2               
+                                           CPU Time Used: 00:04:32        
+   Memory Requested:   4.0GB                 Memory Used: 767.34MB        
+   Walltime requested: 00:05:10            Walltime Used: 00:02:25        
+   JobFS requested:    100.0MB                JobFS used: 9.74KB          
+======================================================================================

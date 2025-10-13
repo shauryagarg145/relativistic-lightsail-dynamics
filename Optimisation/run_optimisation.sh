@@ -4,8 +4,9 @@
 #PBS -q normalsr
 #PBS -l ncpus=2
 #PBS -l mem=4GB
-#PBS -l walltime=0:02:00
+#PBS -l walltime=0:05:10
 
+module purge
 module load use.own
 module load python3/3.12.1
 module load numpy/2.2.5
@@ -17,5 +18,8 @@ module load nlopt/2.9.1
 module load torch/2.7.0
 module load torcwa/0.1.4.2
 module load multiprocess/0.70.18
+module load dill/0.4.0
 
-python3 run_parallel.py
+cd /scratch/dg76/sg5635/relativistic-lightsail-dynamics/Optimisation
+
+python3 /scratch/dg76/sg5635/relativistic-lightsail-dynamics/Optimisation/run_parallel.py
