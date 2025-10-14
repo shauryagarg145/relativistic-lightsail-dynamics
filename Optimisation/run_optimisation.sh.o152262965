@@ -1,0 +1,418 @@
+Multi-wavelength FOM: uniform
+Mono-wavelength FOM: asymp
+ FOM kwargs: {'use_perturbed': False}
+
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.1641801937078116), np.float64(1.1760182370342611))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.744244316703835), np.float64(1.7560823600302846))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.18162259761250646), np.float64(0.1934606409389559))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.2881649875505516), np.float64(0.3000030308770011))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.6850541000715877), np.float64(1.6968921433980373))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.35919324750924836), np.float64(0.3710312908356978))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.06324216434801187), np.float64(0.07508020767446133))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.1704138764560157), np.float64(2.1822519197824652))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.8327149805672267), np.float64(0.8445530238936761))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.9037432405259235), np.float64(0.9155812838523729))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.5548356234806437), np.float64(1.5666736668070933))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.8034345333360824), np.float64(1.815272576662532))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.6906584606498332), np.float64(0.7024965039762826))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.9866095438110697), np.float64(0.9984475871375191))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.016519313212173), np.float64(2.028357356538622))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.2414421364147126), np.float64(2.2532801797411617))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.483807363521947), np.float64(1.4956454068483964))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.0875475731708693), np.float64(2.099385616497319))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.169784554286057), np.float64(0.18162259761250646))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.5785117101335426), np.float64(1.5903497534599922))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.8090388939143277), np.float64(0.8208769372407773))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.5012497674266418), np.float64(0.5130878107530913))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.7972008505878783), np.float64(0.8090388939143277))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.39470737748859674), np.float64(0.4065454208150462))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.7498486772820805), np.float64(0.7616867206085299))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.0401953998650715), np.float64(2.052033443191521))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.4894117241001924), np.float64(0.5012497674266418))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.8507867066418802), np.float64(1.8626247499683297))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.4657356374472935), np.float64(0.47757368077374296))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.276956266394061), np.float64(2.2887943097205103))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.6788204173233837), np.float64(0.6906584606498332))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.8981388799476782), np.float64(1.9099769232741275))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.3355171608563495), np.float64(0.3473552041827989))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.815272576662532), np.float64(1.8271106199889813))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.0046812698857233), np.float64(2.016519313212173))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.3891030169103513), np.float64(1.4009410602368009))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.0869182510009108), np.float64(0.09875629432736026))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.791596490009633), np.float64(1.8034345333360824))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.229604093088263), np.float64(2.2414421364147126))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.8800671538730245), np.float64(0.8919051971994739))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.7797584466831835), np.float64(1.791596490009633))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.4183834641414957), np.float64(0.43022150746794513))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.223370410340059), np.float64(1.2352084536665084))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.9691671399063748), np.float64(1.9810051832328244))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.312470396373409), np.float64(2.3243084396998586))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.20529868426540537), np.float64(0.21713672759185484))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.6258638834393406), np.float64(1.63770192676579))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.5722780273853386), np.float64(0.5841160707117881))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.028357356538622), np.float64(2.0401953998650715))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.052033443191521), np.float64(2.0638714865179706))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.01588999104221404), np.float64(0.0277280343686635))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.0576378037697665), np.float64(1.069475847096216))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.7087301867244868), np.float64(1.7205682300509362))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.123061703150218), np.float64(2.1348997464766675))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.0339617171168676), np.float64(1.0457997604433171))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.8389486633154308), np.float64(1.8507867066418802))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.6021877967864415), np.float64(1.614025840112891))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.24081281424475376), np.float64(0.2526508575712032))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.329912800278104), np.float64(1.3417508436045535))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.436455190216149), np.float64(1.4482932335425986))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.07508020767446133), np.float64(0.0869182510009108))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.4246171468896998), np.float64(1.436455190216149))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.4127791035632502), np.float64(1.4246171468896998))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.8919051971994739), np.float64(0.9037432405259235))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.4956454068483964), np.float64(1.507483450174846))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.09875629432736026), np.float64(0.11059433765380972))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.1112236598237684), np.float64(2.123061703150218))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.051404121021562416), np.float64(0.06324216434801187))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.0813138904226653), np.float64(1.093151933749115))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.43022150746794513), np.float64(0.4420595507943946))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.022123673790418), np.float64(1.0339617171168676))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.5311595368277449), np.float64(1.5429975801541944))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.03956607769511296), np.float64(0.051404121021562416))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.8863008366212286), np.float64(1.8981388799476782))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.3236791175299), np.float64(0.3355171608563495))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.3716606130056563), np.float64(2.383498656332106))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.07570952984442), np.float64(2.0875475731708693))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.9510954138317212), np.float64(0.9629334571581707))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.6495399700922395), np.float64(1.6613780134186888))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.359822569679207), np.float64(2.3716606130056563))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.2707225836458567), np.float64(1.2825606269723062))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.7205682300509362), np.float64(1.7324062733773857))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.8208769372407773), np.float64(0.8327149805672267))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.9928432265592737), np.float64(2.0046812698857233))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.868229110546575), np.float64(0.8800671538730245))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.9155812838523729), np.float64(0.9274193271788224))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.5429975801541944), np.float64(1.5548356234806437))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.1878562803607104), np.float64(1.19969432368716))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.2289747709183043), np.float64(0.24081281424475376))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.9747715004846201), np.float64(0.9866095438110697))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.1523421503813622), np.float64(1.1641801937078116))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.6613780134186888), np.float64(1.6732160567451384))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.2526508575712032), np.float64(0.2644889008976527))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.0102856304639687), np.float64(1.022123673790418))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.13427042430670863), np.float64(0.14610846763315807))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.0457997604433171), np.float64(1.0576378037697665))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.2352084536665084), np.float64(1.2470464969929578))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.12243238098025917), np.float64(0.13427042430670863))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.1168280204020138), np.float64(1.1286660637284633))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.3828693341621473), np.float64(0.39470737748859674))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.1760182370342611), np.float64(1.1878562803607104))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.9984475871375191), np.float64(1.0102856304639687))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.8563910672201256), np.float64(0.868229110546575))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.1940899631089144), np.float64(2.205928006435364))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.4482932335425986), np.float64(1.4601312768690482))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.3710312908356978), np.float64(0.3828693341621473))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.453897594120844), np.float64(0.4657356374472935))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.8271106199889813), np.float64(1.8389486633154308))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.4719693201954975), np.float64(1.483807363521947))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.14610846763315807), np.float64(0.15794651095960754))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.2644889008976527), np.float64(0.27632694422410214))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.6669823739969343), np.float64(0.6788204173233837))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.6551443306704848), np.float64(0.6669823739969343))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.2651182230676112), np.float64(2.276956266394061))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.27632694422410214), np.float64(0.2881649875505516))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.921814966600577), np.float64(1.9336530099270264))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.2470464969929578), np.float64(1.2588845403194073))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.4601312768690482), np.float64(1.4719693201954975))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.3473552041827989), np.float64(0.35919324750924836))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.093151933749115), np.float64(1.1049899770755642))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.3654269302574524), np.float64(1.377264973583902))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.738010633955631), np.float64(0.7498486772820805))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.614025840112891), np.float64(1.6258638834393406))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.2532801797411617), np.float64(2.2651182230676112))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.2887943097205103), np.float64(2.30063235304696))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.945491053253476), np.float64(1.9573290965799255))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.6196302006911364), np.float64(0.6314682440175858))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.1348997464766675), np.float64(2.1467377898031166))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.1467377898031166), np.float64(2.158575833129566))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.7560823600302846), np.float64(1.767920403356734))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.3417508436045535), np.float64(1.3535888869310029))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.9392573705052718), np.float64(0.9510954138317212))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.4065454208150462), np.float64(0.4183834641414957))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.6314682440175858), np.float64(0.6433062873440353))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.4009410602368009), np.float64(1.4127791035632502))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.5604399840588891), np.float64(0.5722780273853386))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.7324062733773857), np.float64(1.744244316703835))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.3000030308770011), np.float64(0.31184107420345053))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.7024965039762826), np.float64(0.714334547302732))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.15794651095960754), np.float64(0.169784554286057))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.6968921433980373), np.float64(1.7087301867244868))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.0277280343686635), np.float64(0.03956607769511296))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.9274193271788224), np.float64(0.9392573705052718))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.1049899770755642), np.float64(1.1168280204020138))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.19969432368716), np.float64(1.2115323670136096))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.2115323670136096), np.float64(1.223370410340059))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.63770192676579), np.float64(1.6495399700922395))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.2177660497618135), np.float64(2.229604093088263))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.714334547302732), np.float64(0.7261725906291815))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.5249258540795407), np.float64(0.5367638974059902))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.3180747569516547), np.float64(1.329912800278104))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.3479845263527577), np.float64(2.359822569679207))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.1934606409389559), np.float64(0.20529868426540537))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.5486019407324396), np.float64(0.5604399840588891))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.11059433765380972), np.float64(0.12243238098025917))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.336146483026308), np.float64(2.3479845263527577))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.5367638974059902), np.float64(0.5486019407324396))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.6433062873440353), np.float64(0.6551443306704848))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.3535888869310029), np.float64(1.3654269302574524))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.2825606269723062), np.float64(1.2943986702987558))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.9810051832328244), np.float64(1.9928432265592737))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.2943986702987558), np.float64(1.306236713625205))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.1405041070549127), np.float64(1.1523421503813622))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.9629334571581707), np.float64(0.9747715004846201))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.158575833129566), np.float64(2.1704138764560157))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.607792157364687), np.float64(0.6196302006911364))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.205928006435364), np.float64(2.2177660497618135))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.8626247499683297), np.float64(1.8744627932947793))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.30063235304696), np.float64(2.312470396373409))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.7616867206085299), np.float64(0.7735247639349794))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.8445530238936761), np.float64(0.8563910672201256))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.1822519197824652), np.float64(2.1940899631089144))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.9099769232741275), np.float64(1.921814966600577))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.5959541140382375), np.float64(0.607792157364687))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.2588845403194073), np.float64(1.2707225836458567))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.31184107420345053), np.float64(0.3236791175299))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.6732160567451384), np.float64(1.6850541000715877))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.767920403356734), np.float64(1.7797584466831835))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.5903497534599922), np.float64(1.6021877967864415))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.5841160707117881), np.float64(0.5959541140382375))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.9573290965799255), np.float64(1.9691671399063748))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.7261725906291815), np.float64(0.738010633955631))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.7735247639349794), np.float64(0.7853628072614288))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.8744627932947793), np.float64(1.8863008366212286))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.0638714865179706), np.float64(2.07570952984442))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.099385616497319), np.float64(2.1112236598237684))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.9336530099270264), np.float64(1.945491053253476))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.7853628072614288), np.float64(0.7972008505878783))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.21713672759185484), np.float64(0.2289747709183043))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(2.3243084396998586), np.float64(2.336146483026308))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.5130878107530913), np.float64(0.5249258540795407))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.5666736668070933), np.float64(1.5785117101335426))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.069475847096216), np.float64(1.0813138904226653))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.5193214935012953), np.float64(1.5311595368277449))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.1286660637284633), np.float64(1.1405041070549127))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.4420595507943946), np.float64(0.453897594120844))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.306236713625205), np.float64(1.3180747569516547))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.377264973583902), np.float64(1.3891030169103513))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(1.507483450174846), np.float64(1.5193214935012953))
+Warning: maxfev not provided in maxstop dictionary. Ignore if this is intentional.
+Success on starting bounds:  (np.float64(0.47757368077374296), np.float64(0.4894117241001924))
+Begun!
+
+======================================================================================
+                  Resource Usage on 2025-10-14 21:22:14:
+   Job Id:             152262965.gadi-pbs
+   Project:            dg76
+   Exit Status:        0
+   Service Units:      9998.68
+   NCPUs Requested:    208                    NCPUs Used: 208             
+                                           CPU Time Used: 2494:32:22      
+   Memory Requested:   200.0GB               Memory Used: 49.09GB         
+   Walltime requested: 24:30:00            Walltime Used: 24:02:07        
+   JobFS requested:    200.0MB                JobFS used: 974.02KB        
+======================================================================================
