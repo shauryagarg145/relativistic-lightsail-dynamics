@@ -129,7 +129,7 @@ def FOMSettings():
 def OptimisationSettings():
     # Global optimisation parameters
     num_cores = 200  # number of cores to run parallel optimisation
-    maxtime = 1440  # Stop after maxtime minutes
+    maxtime = 1435  # Stop after maxtime minutes
     maxstop = {'maxtime': maxtime}  # global 1000
     if choose_multifom != "monochrome":
         runID = f"F{choose_monofom}{int(final_speed)}_fixgaussian20_50GW"  # ID for saving results to distinguish different runs

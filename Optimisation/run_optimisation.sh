@@ -4,7 +4,7 @@
 #PBS -q normalsr
 #PBS -l ncpus=208
 #PBS -l mem=100GB
-#PBS -l walltime=24:30:00
+#PBS -l walltime=24:00:00
 #PBS -l jobfs=<10GB>
 
 module purge
