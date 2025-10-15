@@ -74,7 +74,7 @@ wavelength = 1.  # Laser wavelength
 from scipy.optimize import minimize
 
 l_min = 1
-l_max = np.sqrt(1.05)  #1.05 #+ 2.5e-5
+l_max = 1.05 #np.sqrt(1.05)  #1.05 #+ 2.5e-5
 doppler = l_min / l_max
 
 def test(v):
